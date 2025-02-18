@@ -11,6 +11,11 @@ The project files are too large to store directly on GitHub ☹️. You can down
 
 ---
 
+## ⚠️ **Important**  
+You Need Firebase and IMGur for storage, so Account must needed.
+
+---
+
 ## 🛠 **Tech Stack**  
 | Feature   | Details |
 |-----------|---------|
