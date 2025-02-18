@@ -24,11 +24,15 @@ The project files are too large to store directly on GitHub ☹️. You can down
 
 ## 📸 **Screenshots**  
 
-![photo_6170273824617120379_y](https://github.com/user-attachments/assets/00b9e74a-ce09-4163-8505-a49c4ae7cc94)  
+
+
+![InCollage_20250218_102227646](https://github.com/user-attachments/assets/8971e327-f6ab-43b7-b121-0ebcd08c8675)
 <br>  
-![photo_6170273824617120380_y](https://github.com/user-attachments/assets/fdebc2d3-a56f-42c2-a754-193d3faf1b5f)  
+
+![InCollage_20250218_102415843](https://github.com/user-attachments/assets/b0f11aba-b81a-41fb-a5b0-8a450918cd63)
 <br>  
-![photo_6170273824617120362_y](https://github.com/user-attachments/assets/37b4d87b-e5ef-4542-a7a5-becdd4649485)  
+
+![Uploading InCollage_20250218_102506691.jpg…]()
 
 ## 📜 **Features**  
 ✅ Admin Authentication (Firebase Auth)  
