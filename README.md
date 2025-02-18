@@ -25,7 +25,7 @@ You Need Firebase and IMGur for storage, so Account must needed.
 | **⚡ Architecture** | MVVM |
 | **☁ Backend** | Firebase Firestore & Authentication |
 
----
+----
 
 ## 📸 **Screenshots**  
 
