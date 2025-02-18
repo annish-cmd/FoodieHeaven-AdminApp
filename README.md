@@ -32,7 +32,8 @@ The project files are too large to store directly on GitHub ☹️. You can down
 ![InCollage_20250218_102415843](https://github.com/user-attachments/assets/b0f11aba-b81a-41fb-a5b0-8a450918cd63)
 <br>  
 
-![Uploading InCollage_20250218_102506691.jpg…]()
+![InCollage_20250218_102506691](https://github.com/user-attachments/assets/081aea4b-8a34-409a-87d4-ee87dee7f5bb)
+
 
 ## 📜 **Features**  
 ✅ Admin Authentication (Firebase Auth)  
